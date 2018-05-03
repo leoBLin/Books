@@ -1,7 +1,5 @@
 # books
 
-123
-
 > A Mpvue project
 
 ## Build Setup
